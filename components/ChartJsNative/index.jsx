@@ -110,22 +110,6 @@ class ChartJsNative extends React.Component {
     })
   }
 
-  /*componentDidMount () {
-    (window.onresize = () => {
-      const wrapper = React.findDOMNode(this.refs.chartWrapper)
-      const width = wrapper.clientWidth
-      const height = wrapper.clientHeight
-
-      // this next part is imperative to resizing the chart:
-      if (this._chart) {
-        this._chart.chart.width = width
-        this._chart.chart.height = height
-      }
-
-      this.setState({width, height})
-    })()
-  }*/
-
   render () {
     const width = this.state.width
     const height = this.state.height
