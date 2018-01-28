@@ -1,0 +1,15 @@
+{
+  "weather-station": {
+    "app": {
+      "headline": "Wetterstation"
+    },
+    "user-select": {
+      "select-device": "Bitte wählen Sie Ihr Gerät aus",
+      "please-select": "Bitte auswählen",
+      "select-device-and-reading": "Bitte wählen Sie ein Gerät und einen Messwert aus!"
+    },
+    "chart": {
+      "temperature": "Temperatur"
+    }
+  }
+}

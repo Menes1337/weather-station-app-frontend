@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "id": "@massive-apps/weather-station-theme",
+  "configuration": {
+    "language": {
+      "type": "bigApi",
+      "destination" : "frontend",
+      "params": {
+        "method":  "GET",
+        "service": "shop",
+        "path": "/v1/%(shopId)s",
+        "key": "languageId"
+      }
+    },
+    "appId": {
+      "type": "static",
+      "destination": "frontend",
+      "params": {
+        "value": "%(appId)s"
+      }
+    }
+  }
+}

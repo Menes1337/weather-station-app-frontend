@@ -1,0 +1,11 @@
+{
+  "weather-station": {
+    "app": {
+      "headline": "Wheather Station"
+    },
+    "user-select": {
+      "select-device": "Please select your device"
+    }
+  }
+  }
+}
