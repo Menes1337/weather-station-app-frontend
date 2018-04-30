@@ -1,7 +1,7 @@
 {
   "name": "@massive-apps/weather-station-theme",
   "version": "0.1.0",
-  "description": "Shopgate Connect Boilerplate Theme.",
+  "description": "Weather Station Theme.",
   "main": "index.jsx",
   "repository": "massive-aps/weather-station-theme",
   "homepage": "https://github.com/Menes1337/weather-station-app-theme",
